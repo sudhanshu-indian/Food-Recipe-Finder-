@@ -26,10 +26,19 @@ Food-Zone/
 ├── img/ # Folder containing all images
 └── README.md # Project readme
 
+---
+## Screenshots 
+
+![image alt](https://github.com/sudhanshu-indian/Food-Recipe-Finder-/blob/e66a84d091d3134cf4f80d86a30ef6537faf6d76/Home%20page.png)
+![image alt](https://github.com/sudhanshu-indian/Food-Recipe-Finder-/blob/e66a84d091d3134cf4f80d86a30ef6537faf6d76/Recipies.png)
+![image alt](https://github.com/sudhanshu-indian/Food-Recipe-Finder-/blob/e66a84d091d3134cf4f80d86a30ef6537faf6d76/Popular%20Food.png)
+![image alt](https://github.com/sudhanshu-indian/Food-Recipe-Finder-/blob/e66a84d091d3134cf4f80d86a30ef6537faf6d76/Search%20result.png)
+![image alt](https://github.com/sudhanshu-indian/Food-Recipe-Finder-/blob/e66a84d091d3134cf4f80d86a30ef6537faf6d76/Search%20result%202.png)
+
+
 
 
 ---
-
 ## 🛠 Tech Stack
 
 - HTML5  
