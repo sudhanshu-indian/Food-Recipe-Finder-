@@ -1,4 +1,4 @@
-# 🍲 Food Zone - Recipe Finder Website
+# 🍲 Food Zone - Recipe Finder Website (Author- Sudhanshu Kumar)
 
 **Food Zone** is a fun and interactive recipe web app where users can explore a wide variety of meal recipes using the [TheMealDB API](https://www.themealdb.com/). It includes search functionality, featured food categories, and the ability to save favorite recipes using local storage.
 
